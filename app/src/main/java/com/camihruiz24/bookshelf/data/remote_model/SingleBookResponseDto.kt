@@ -29,7 +29,7 @@ data class SingleBookResponseDto(
         description = volumeInfo.description,
         authors = volumeInfo.authors,
         categories = volumeInfo.categories,
-        imageUrl =volumeInfo.imageLinks.small,
+        imageUrl = volumeInfo.imageLinks.medium.replace("http", "https"),
     )
 
     @Serializable

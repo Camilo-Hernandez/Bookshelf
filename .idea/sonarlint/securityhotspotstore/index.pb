@@ -45,3 +45,15 @@ t
 Dapp/src/main/java/com/camihruiz24/bookshelf/ui/screens/HomeScreen.kt,8\f\8f8f66aeef40a12dadd699539b04d91847ed1d1e
 r
 Bapp/src/main/java/com/camihruiz24/bookshelf/ui/screens/BookCard.kt,6\1\616edae96d680ce8f4849d9cebb33ee63953f9db
+r
+Bapp/src/main/java/com/camihruiz24/bookshelf/ui/navigation/Route.kt,b\2\b23039bf746d09f539b1042864e1c737eaa62e4c
+u
+Eapp/src/main/java/com/camihruiz24/bookshelf/ui/screens/ErrorScreen.kt,f\e\feaa4f071f34d5bd7fd40937727c73496432aba7
+v
+Fapp/src/main/java/com/camihruiz24/bookshelf/data/remote_model/proof.kt,9\c\9c6256466875599eeb8ecded5f38a9bcd45cecf3
+{
+Kapp/src/main/java/com/camihruiz24/bookshelf/ui/navigation/MainNavigation.kt,7\0\709c4fc561fcdd80b97b0fa01ddb87dbfdf449f7
+~
+Napp/src/main/java/com/camihruiz24/bookshelf/ui/screens/BookDetailsViewModel.kt,e\5\e5e034dc9c08a6fae03c20418142831bd94da16e
+{
+Kapp/src/main/java/com/camihruiz24/bookshelf/ui/screens/BookDetailsScreen.kt,2\f\2f40adf8586706138aaf09ff47bd0a38b71441d8
